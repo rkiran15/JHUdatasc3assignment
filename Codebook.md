@@ -21,6 +21,10 @@ The mean and standard deviation of the signals are selected from the values for 
 The data is melted and recast based on the subject name and activity performed and is aggregated on the mean.
 There are 66 columns and their names are as follows.
 
+"SubNum"
+
+"Activity"
+
 "tBodyAcc-mean-X"           
 "tBodyAcc-mean-Y"           
 "tBodyAcc-mean-Z" 
