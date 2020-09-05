@@ -19,7 +19,7 @@ t and f in the beginning of the column name refers to signals in the time domain
 The X, Y and Z are the directions of the signals.
 The mean and standard deviation of the signals are selected from the values for each activity for each subject.
 The data is melted and recast based on the subject name and activity performed and is aggregated on the mean.
-There are 66 columns and their names are as follows.
+The columns are as follows.
 
 "SubNum"
 
